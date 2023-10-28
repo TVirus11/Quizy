@@ -52,4 +52,58 @@ const questions = [
       'By calling updateState()',
     ],
   ),
+  QuizQuestion(
+    'Which programming language is primarily used for Flutter development?',
+    [
+      'Dart',
+      'Python',
+      'JavaScript',
+      'C#',
+    ],
+  ),
+  QuizQuestion(
+    'What is the primary purpose of a Flutter widget?',
+    [
+      'To display the UI',
+      'To make coffee',
+      'To play music',
+      'To take pictures',
+    ],
+  ),
+  QuizQuestion(
+    'Which of the following is not a core concept in Flutter?',
+    [
+      'Flutter Flavors',
+      'State Management',
+      'Widgets',
+      'Hot Reload',
+    ],
+  ),
+  QuizQuestion(
+    'What is "Hot Reload" in Flutter?',
+    [
+      'A way to quickly see changes in your code on your app while its running',
+      'A feature that allows you to reheat your coffee in the morning',
+      'A method for speeding up the Flutter installation process',
+      'A type of error message in Flutter',
+    ],
+  ),
+  QuizQuestion(
+    'What is the primary advantage of using Flutter for cross-platform mobile app development?',
+    [
+      'It allows you to write one codebase for both iOS and Android',
+      'It is known for its superior gaming capabilities',
+      'It is only compatible with iOS devices',
+      'It uses a unique programming language called Flutterscript',
+    ],
+  ),
+  QuizQuestion(
+    'What is the Flutter plugin for Visual Studio Code commonly called?',
+    [
+      'Flutter Doctor',
+      'Flutter Magic',
+      'Flutterville',
+      'Flutter Buddy',
+    ],
+  ),
 ];
